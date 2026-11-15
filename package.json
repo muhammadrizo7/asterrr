@@ -1,0 +1,7 @@
+{
+  "name": "aster",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Aster: an educational 2D spaceflight simulator with a Moon outpost mode built on real NASA open data",
+  "scripts": { "start": "node server.cjs", "test": "node test.cjs" }
+}
